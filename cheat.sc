@@ -11,8 +11,8 @@ var num = 8
 num+i
 //it show us 17
 
-var name:String = "Ece Akinci"
-var name = "Ece Akinci"
+var name:String = "Scala"
+var name = "Scala"
 
 
 object Demo{
@@ -63,7 +63,7 @@ case class Student(var rollno:Int =1, var name: String = "Navin", var marks: Int
   /*Create student object*/
   var s1 = Student();
   var s2 = Student(4);
-  var s3 = Student(name = "Rahul");
+  var s3 = Student(name = "Jack");
   var s4 = Student(4, "Ece");
 
 
