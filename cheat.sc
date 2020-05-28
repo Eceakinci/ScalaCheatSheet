@@ -1,15 +1,15 @@
 var i = 9
 var i = 9;
-(variable names more important than variable types)
-(but in java, types are more important than variable names
-that because in java we type like int a = 12;) 
+//variable names more important than variable types
+//but in java, types are more important than variable names
+//that because in java we type like int a = 12;
 
 var j: Int = 20
 var num = 8
 
-(if we type..)
+//if we type..
 num+i
-(it show us 17
+//it show us 17
 
 var name:String = "Ece Akinci"
 var name = "Ece Akinci"
